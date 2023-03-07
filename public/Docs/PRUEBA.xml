@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dec xmlns="https://www.siged.sep.gob.mx/certificados/" version="3.0" tipoCertificado="1" folioControl="2020102920EEX0001NPREPARATORIAABIERTAOAX02027">
+   <Iems nombreSEN="Sistema Educativo Nacional de México" nombreDependencia="Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología" idIEMS="10066" nombreIEMS="Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología" idTipoIEMS="4" tipoIEMS="Institución Pública Centralizada Estatal" idOpcionEducativa="12" opcionEducativa="Certificación por Evaluaciones Parciales"/>
+   <PlantelOServicioEducativo idTipoPlantel="52" tipoPlantel="La Preparatoria Abierta de la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología" idMunicipio="067" municipio="Oaxaca de Juárez" idEntidadFederativa="20" entidadFederativa="Oaxaca" cct="20EEX0001N" idGeneroPlantel="2" generoPlantel="La" idSostenimiento="1" sostenimiento="Público"/>
+   <Alumno nombre="Sergio Arturo" primerApellido="Cruz" segundoApellido="Pablo" curp="CUPS780529HDFRBR03" numeroControl="19972001014691"/>
+   <Acreditacion idNivelEstudios="2" nivelEstudios="Bachillerato o equivalentes" idTipoEstudiosIEMS="44" tipoEstudiosIEMS="Bachillerato o equivalente  " periodoInicio="1997-03-10T00:00:00" periodoTermino="2002-02-10T09:00:00" creditosObtenidos="293" totalCreditos="293" promedioAprovechamiento="7.2" promedioAprovechamientoTexto="Siete punto dos"/>
+   <UacsdeFt>
+      <UacdeFt nombre="Inglés I" calificacion="7.0" totalHorasUAC="72" creditos="8"/>
+      <UacdeFt nombre="Matemáticas I" calificacion="7.0" totalHorasUAC="75" creditos="9"/>
+      <UacdeFt nombre="Taller de redacción I" calificacion="7.0" totalHorasUAC="72" creditos="8"/>
+      <UacdeFt nombre="Metodología de la lectura" calificacion="7.0" totalHorasUAC="75" creditos="9"/>
+      <UacdeFt nombre="Historia moderna de occidente" calificacion="7.0" totalHorasUAC="75" creditos="9"/>
+      <UacdeFt nombre="Metodología del aprendizaje" calificacion="7.0" totalHorasUAC="50" creditos="6"/>
+      
+      <UacdeFt nombre="Inglés II" calificacion="7.0" totalHorasUAC="72" creditos="8"/>
+      <UacdeFt nombre="Matemáticas II" calificacion="7.0" totalHorasUAC="72" creditos="8"/>
+      <UacdeFt nombre="Taller de redacción II" calificacion="7.0" totalHorasUAC="72" creditos="8"/>
+      <UacdeFt nombre="Textos literarios I" calificacion="7.0" totalHorasUAC="72" creditos="8"/>
+      <UacdeFt nombre="Historia mundial contemporánea" calificacion="7.0" totalHorasUAC="72" creditos="8"/>
+      <UacdeFt nombre="Apreciación Estética. Pintura" calificacion="7.0" totalHorasUAC="75" creditos="9"/>
+      
+      <UacdeFt nombre="Inglés III" calificacion="6.0" totalHorasUAC="75" creditos="9"/>
+      <UacdeFt nombre="Matemáticas III" calificacion="8.0" totalHorasUAC="90" creditos="10"/>
+      <UacdeFt nombre="Taller de redacción III" calificacion="8.0" totalHorasUAC="72" creditos="8"/>
+      <UacdeFt nombre="Textos literarios II" calificacion="6.0" totalHorasUAC="72" creditos="8"/>
+      <UacdeFt nombre="Lógica" calificacion="7.0" totalHorasUAC="90" creditos="10"/>
+      
+      <UacdeFt nombre="Inglés IV" calificacion="8.0" totalHorasUAC="75" creditos="9"/>
+      <UacdeFt nombre="Matemáticas IV" calificacion="8.0" totalHorasUAC="90" creditos="10"/>
+      <UacdeFt nombre="Textos filosóficos I" calificacion="6.0" totalHorasUAC="72" creditos="8"/>
+      <UacdeFt nombre="Principios de Química general" calificacion="7.0" totalHorasUAC="90" creditos="10"/>
+      <UacdeFt nombre="Principios de Física" calificacion="7.0" totalHorasUAC="90" creditos="10"/>
+      
+      <UacdeFt nombre="Inglés V" calificacion="7.0" totalHorasUAC="75" creditos="9"/>
+      <UacdeFt nombre="Matemáticas V" calificacion="7.0" totalHorasUAC="95" creditos="11"/>
+      <UacdeFt nombre="Textos filosóficos II" calificacion="7.0" totalHorasUAC="72" creditos="8"/>
+      <UacdeFt nombre="Textos políticos y sociales I" calificacion="8.0" totalHorasUAC="75" creditos="9"/>
+      <UacdeFt nombre="Biología" calificacion="7.0" totalHorasUAC="95" creditos="11"/>
+      
+      <UacdeFt nombre="Inglés VI" calificacion="8.0" totalHorasUAC="75" creditos="9"/>
+      <UacdeFt nombre="Matemáticas VI" calificacion="8.0" totalHorasUAC="95" creditos="11"/>
+      <UacdeFt nombre="Textos científicos" calificacion="8.0" totalHorasUAC="75" creditos="9"/>
+      <UacdeFt nombre="Textos Políticos y Sociales II" calificacion="8.0" totalHorasUAC="75" creditos="9"/>
+      <UacdeFt nombre="Historia de México siglo XX" calificacion="8.0" totalHorasUAC="72" creditos="8"/>
+      <UacdeFt nombre="Bioética" calificacion="8.0" totalHorasUAC="75" creditos="9"/>
+   </UacsdeFt>
+   <PerfilEgresoEspecifico trayecto="ciencias administrativas y sociales">
+      <CompetenciasEspecificas/>
+   </PerfilEgresoEspecifico>
+   <Sep version="1.0" folioDigital="95fd9e16-a9aa-45a9-814b-b591951b9196" fechaSep="2022-06-06T16:15:30" selloDec="DifKGPPDufolk+bCfKre2jUu7qeoed/BEhjVADTDeZcVqIaTXb8k6G4cYyP+vAH56VZqcwI1sTTVLQQy5JbXXlfkM+encCb/BGjgb6KkCXCslaqgNtK/xGsBvGiCPrtig3HYwr/uDH4iW/4Lm66pipcMwrjxB71pkdXZ13aPzuZavC/YoRyop8B1EamPkNcrIizphAKPVTpZ7IPQcCw8AlbfzRL0KAeg86icjAExWOUCQAbCA+UhXjo1sHY24YH9pV7OEqgH0Ujz9O8xXdsIAbaEYQM/HgCA53YmvashYUga1GkxTubE8O9GJqjSYXh5nKQ1jP8+MLw9Q274Ko+41g==" noCertificadoSep="00001000000502268997" selloSep="ZwT97Xe/oWLjz3WL9AQbGL5t9NW1bLzq8jRir5XludQzXvQlBKgshkRSAWGTqnWFd3D7+WABvBRcsQvIPd54tq1IjRvjkhV+09ZE/iivhqSliBQ6I4dBN3PBTxM8rmNIJFRAW6Nz0hFIk+o7XCFaQG1MSYfQEkMwO7KEbzDmrdDtEbOal9DDYg63s3G8IFAQl1SrJIxByjA0Vn31nrEXl3X1LukGOa9YfMLAaMq/6F4zcorjnx+78cz9fKj1k8IdmCj5l8WvBZaVblEJRXdSxy9E4VITNzGcjmfzlUqRklYdbDm3Y1elF2lmnOEzVB/C5mS1kf0/uyU/9RmkNJBqcg=="/>
+</Dec>
